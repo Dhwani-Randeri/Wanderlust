@@ -194,7 +194,7 @@ This project is deployed using:
 
 # 🚀 Live Website
 
-[https://your-render-url.onrender.com/listings](https://projects-mots.onrender.com/listings)
+[https://wanderlust.onrender.com/listings](https://projects-mots.onrender.com/listings)
 
 -------------------------------------------------
 
